@@ -1,5 +1,8 @@
 _repo: How-to-live-A-manual-of-hygiene-for-use-in-the-schools-of-the-Philippine-islands_65192
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65192-h/images/cover.jpg
 creator:
   author:
     agent_name: Knapp, Adeline
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52210
     wikipedia: https://en.wikipedia.org/wiki/Adeline_Knapp
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65192#How-to-live-A-manual-of-hygiene-for-use-in-the-schools-of-the-Philippine-islands
 gutenberg_issued: '2021-04-29'
 gutenberg_type: Text
 identifiers:
